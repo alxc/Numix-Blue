@@ -1,7 +1,4 @@
 # Name: Numix xfwm4 theme
-# Author: Satyajit Sahoo <satyajit.happy@gmail.com>
-# License: GPL-3.0+
-
 active_text_color=#dcdcdc
 inactive_text_color=#888888
 button_offset=3
