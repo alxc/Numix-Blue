@@ -1,12 +1,12 @@
 # Name: Numix xfwm4 theme
-active_text_color=#dcdcdc
-inactive_text_color=#888888
+active_text_color=#aaaaaa
+inactive_text_color=#666666
 button_offset=0
 button_spacing=0
 show_app_icon=true
 full_width_title=true
 maximized_offset=0
-title_horizontal_offset=2
+title_horizontal_offset=6
 title_shadow_active=false
 title_shadow_inactive=false
 title_vertical_offset_active=1
